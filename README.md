@@ -44,6 +44,10 @@ Understanding how domain-joined machines interact with Active Directory.
 Practical skills applicable to system administration, and cybersecurity roles.
 
 
+Lab Walk-Through
+
+To accomodate my Domain Controller (DC) on the Virtual Machine, Two network adapters are required. Firstly, a NAT adapter utilizing my home router's IP address to facilitate external connectivity , and secondly, an Internal Network Adapter (VMnet0) to  enable communication with other Virtual Machines. Diplayed in the image below.
+
 
 
 
