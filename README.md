@@ -56,4 +56,8 @@ After installing Windows Server 2019 ISO on the Virtual Machine, I did network c
 Next, I configured the Internal network Adapter, by assigning the IP address in the first image (172.16.0.1). I left the default gateway blank since the Domain Controller serves as the gateway. For DNS server configuration, I allocated the IP address in the first image, anticipating Active directory installation, which automatically installs DNS.
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_49_59" src="https://github.com/user-attachments/assets/3b4cbb8a-6180-4d84-8848-411593e9729b" />
 
+After configuring the network adapters, I move on to renaming the PC from its current default name to "DC" (Domain Controller). This action requires the PC to restart.
+<img width="1440" height="599" alt="Screenshot 2025-09-29 at 5 16 17 AM" src="https://github.com/user-attachments/assets/4ef630a0-b828-4bc1-be6c-229d85fc833b" />
+
+
 
