@@ -59,5 +59,8 @@ Next, I configured the Internal network Adapter, by assigning the IP address in 
 After configuring the network adapters, I move on to renaming the PC from its current default name to "DC" (Domain Controller). This action requires the PC to restart.
 <img width="1440" height="599" alt="Screenshot 2025-09-29 at 5 16 17 AM" src="https://github.com/user-attachments/assets/4ef630a0-b828-4bc1-be6c-229d85fc833b" />
 
+After the restart, I then proceed to intalling the active directory domain services (AD DS), to create the domain
+<img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_56_07" src="https://github.com/user-attachments/assets/147409ca-4f93-486a-8ec3-2d82bc6ed200" />
+
 
 
