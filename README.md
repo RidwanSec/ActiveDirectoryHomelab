@@ -39,4 +39,4 @@ Automating repetitive admin tasks with PowerShell.
 Understanding how domain-joined machines interact with Active Directory.
 
 Practical skills applicable to system administration, and cybersecurity roles.
-<img width="100" height="20" alt="Screenshot 2025-09-29 at 12 15 56 AM" src="https://github.com/user-attachments/assets/a56e235b-ee23-475c-9d33-1a184c98f222" />
+<img width="500" height="500" alt="Screenshot 2025-09-29 at 12 15 56 AM" src="https://github.com/user-attachments/assets/a56e235b-ee23-475c-9d33-1a184c98f222" />
