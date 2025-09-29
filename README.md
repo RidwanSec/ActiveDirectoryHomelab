@@ -54,5 +54,6 @@ After installing Windows Server 2019 ISO on the Virtual Machine, I did network c
 <img width="600" height="5000" alt="VirtualBox_DC_26_09_2025_20_48_56" src="https://github.com/user-attachments/assets/f09a9f0d-dd9a-4e54-bcd7-37deb9824111" />
 
 Next, I configured the Internal network Adapter, by assigning the IP address in the first image (
-<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_13_59" src="https://github.com/user-attachments/assets/364222eb-03b8-4fdc-9bfd-58585264047c" />
+<img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_49_59" src="https://github.com/user-attachments/assets/3b4cbb8a-6180-4d84-8848-411593e9729b" />
+
 
