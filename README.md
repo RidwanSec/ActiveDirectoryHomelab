@@ -38,4 +38,4 @@ Automating repetitive admin tasks with PowerShell.
 
 Understanding how domain-joined machines interact with Active Directory.
 
-Practical skills applicable to IT support, system administration, and cybersecurity roles.
+Practical skills applicable to system administration, and cybersecurity roles.
