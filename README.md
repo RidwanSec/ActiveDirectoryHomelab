@@ -63,7 +63,7 @@ After the restart, I then proceed to intalling the active directory domain servi
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_56_07" src="https://github.com/user-attachments/assets/147409ca-4f93-486a-8ec3-2d82bc6ed200" />
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_21_03_06" src="https://github.com/user-attachments/assets/aae7a0a0-c33f-4a4a-ac66-88496449ea4d" />
 
-After Active Directory Domain Services installation, I have to set up the Post-Deployment Configuration,  which is creating the domain, by adding new forest.
+After Active Directory Domain Services installation, I have to set up the Post-Deployment Configuration, by promoting the server to the domain controller which is creating the domain, by adding new forest.
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_59_05" src="https://github.com/user-attachments/assets/3613247a-7f33-4b40-8355-e8be174213c3" />
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_59_53" src="https://github.com/user-attachments/assets/fad4d8f1-6495-4599-a67c-0ea7782f7989" />
 
