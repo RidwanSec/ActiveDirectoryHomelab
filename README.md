@@ -82,3 +82,6 @@ After inputing the new user informations, hit 'Next', then set a password for th
 After creating the dedicated admin account, it still lacks administrative privileges. I have to elevate this new user to Administrator status. To do that, I right clicked on the new user, go to 'Properties', then clicked on 'Member Of', then 'Add', then input 'domain admins' for the object name, then click on 'Check Names', then 'Okay' and 'Apply'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_13_59" src="https://github.com/user-attachments/assets/905ce222-bf6b-461d-a63a-5a9908cc26ae" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_14_38" src="https://github.com/user-attachments/assets/26904ee2-324b-4301-9c0b-26675ba4c6a6" />
+
+To use the new user account, I have to log out of the the domain controller, and sign-in as other user, and log in the domain admin account.
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_17_33" src="https://github.com/user-attachments/assets/fcf4e4ab-ae42-4890-a4c7-e5882af6da9c" />
