@@ -100,7 +100,7 @@ After Roles has been intalled successfully, now, I have to configure the Routing
 Then under 'Use this public interface to connect to the internet:', choose the internet for the  Network interface, the 'Next', then hit 'Finish'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_36_45" src="https://github.com/user-attachments/assets/8c5e8a50-4efd-45bf-bead-15e6ed2dc3af" />
 
-Now, I set up the DHCP server, to allow Windows 10 Client to get an IP address that will let it get on the internet and browse the internet, while on the private internal network. 
+Now, I need to set up the DHCP server, to allow Windows 10 Client to get an IP address that will let it get on the internet and browse the internet, while on the private internal network. 
 To set up the DHCP, I will go back to Domain Controller, click on 'Add Roles and Features Wizard', hit 'Next', confirm the server name, hit 'Next' again, then select 'DHCP Server', and 'Add Features', then, 'Next', 'Next', and click 'Install'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_47_59" src="https://github.com/user-attachments/assets/5afc7124-4d99-4900-bc48-3eaf554453c2" />
 
