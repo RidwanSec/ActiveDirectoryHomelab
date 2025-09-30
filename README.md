@@ -75,6 +75,6 @@ Now instead of using the built admin account, I created a dedicated admin accoun
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_22_02" src="https://github.com/user-attachments/assets/f1ef628a-5098-4b4b-a0d4-5583d8c7e031" />
 Then create a new user under the newly created admin
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_25_14" src="https://github.com/user-attachments/assets/8d0148cd-3670-43ae-a348-090ae4244b1e" />
-After inputing the new user informations, hit 'Next', then set a password for the new user.
+After inputing the new user informations, hit 'Next', then set a password for the new user. After password input, click on 'Next', then 'Finish'.
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_26_52" src="https://github.com/user-attachments/assets/f4585d6c-d7c4-4034-b4ff-9729a6e67b4d" />
 
