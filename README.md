@@ -86,6 +86,9 @@ After creating the dedicated admin account, it still lacks administrative privil
 To use the new user account, I have to log out of the the domain controller, and sign-in as other user, and log in the domain admin account.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_17_33" src="https://github.com/user-attachments/assets/fcf4e4ab-ae42-4890-a4c7-e5882af6da9c" />
 
-Next, I have install and set up the RAS/NAT to allow the windows 10 client to be on the virtual private network and still be able to access internet through the Domain Controller (DC). To do this i will click on add roles and features on the Server Manager, hit 'Next', 'Next', I should be able to see the server, then click on 'Next' again and choose 'Remote Access' for the role, hit 'Next' again
+Next, I have install and set up the RAS/NAT to allow the windows 10 client to be on the virtual private network and still be able to access internet through the Domain Controller (DC). To do this i will click on add roles and features on the Server Manager, hit 'Next', 'Next', I should be able to see the server, then click on 'Next' again and choose 'Remote Access' for the role, hit 'Next' again, then install routing, by checking 'Routing', then hit 'Add Features', hit 'Next', 'Next', then 'Install'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_19_45" src="https://github.com/user-attachments/assets/0b61e944-3c73-4dbc-8670-e981ade41976" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_20_54" src="https://github.com/user-attachments/assets/7aa23016-f527-4abc-a0d9-430ba01cd856" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_24_17" src="https://github.com/user-attachments/assets/499b6511-ec6b-4b6b-8167-5e6461fb82e8" />
+
+After Roles has been intalled successfully, now, I have to configure the Routing and Remote Access functionality by going to tools
