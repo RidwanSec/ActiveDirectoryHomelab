@@ -73,4 +73,6 @@ After the server is being promoted to the domain, it enforced a restart, after t
 Now instead of using the built admin account, I created a dedicated admin account, by clicking on start, the clicked on Active Directory Users and Computers. Then right clicked on the created domain (Ridwan), then go to 'New', then 'Organization unit'
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_20_54" src="https://github.com/user-attachments/assets/3c9429fa-37e2-4e80-a3f0-19cae010f812" />
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_22_02" src="https://github.com/user-attachments/assets/f1ef628a-5098-4b4b-a0d4-5583d8c7e031" />
+Then create a new user under the newly created admin
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_25_14" src="https://github.com/user-attachments/assets/cda16654-b1a7-483e-afb8-3dcbe9bb7616" />
 
