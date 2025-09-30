@@ -112,3 +112,4 @@ To illustrate, consider a scenario like a library offering Wi-Fi access. If patr
 
 To set up the DHCP scope, go to 'Tools', then click 'DHCP', right click the 'IPv4', click 'New Scope', hit 'Next', give it a name, its ideal to  name it after the IP range, so I named is '172.16.0.100-200', then hit 'Next', then enter the ranges,
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_19_01" src="https://github.com/user-attachments/assets/32e72920-5781-4895-b7b4-2c49e41557b4" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_21_04" src="https://github.com/user-attachments/assets/864b13aa-a6d9-42cb-a9e2-383f7aa9d6d6" />
