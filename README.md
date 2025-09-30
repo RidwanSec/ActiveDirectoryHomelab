@@ -78,4 +78,5 @@ Then create a new user under the newly created admin
 After inputing the new user informations, hit 'Next', then set a password for the new user. After password input, click on 'Next', then 'Finish'.
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_26_52" src="https://github.com/user-attachments/assets/f4585d6c-d7c4-4034-b4ff-9729a6e67b4d" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_11_50" src="https://github.com/user-attachments/assets/4295e034-559b-483e-956c-0c6f00e64b99" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_15_20" src="https://github.com/user-attachments/assets/16de664c-ce01-41de-bb83-707b9a6c4e27" />
 
