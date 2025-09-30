@@ -80,4 +80,5 @@ After inputing the new user informations, hit 'Next', then set a password for th
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_11_50" src="https://github.com/user-attachments/assets/4295e034-559b-483e-956c-0c6f00e64b99" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_15_20" src="https://github.com/user-attachments/assets/16de664c-ce01-41de-bb83-707b9a6c4e27" />
 After creating the dedicated admin account, it still lacks administrative privileges. To do that I have to go active directory to elevate this new user to Administrator status
-<img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_49_59" src="https://github.com/user-attachments/assets/67d55dd1-319e-4499-b4d9-ca01bec4bc4e" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_13_59" src="https://github.com/user-attachments/assets/905ce222-bf6b-461d-a63a-5a9908cc26ae" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_14_38" src="https://github.com/user-attachments/assets/26904ee2-324b-4301-9c0b-26675ba4c6a6" />
