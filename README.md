@@ -104,5 +104,6 @@ Now, I need to set up the DHCP server, to allow Windows 10 Client to get an IP a
 To set up the DHCP, I will go back to Domain Controller, click on 'Add Roles and Features ', hit 'Next', confirm the server name, hit 'Next' again, then select 'DHCP Server', and 'Add Features', then, 'Next', 'Next', 'Next', and click 'Install'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_47_59" src="https://github.com/user-attachments/assets/5afc7124-4d99-4900-bc48-3eaf554453c2" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_47_21" src="https://github.com/user-attachments/assets/e85d04ef-93a8-455b-8f13-7f1de096c617" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_12_40" src="https://github.com/user-attachments/assets/cbbde169-4b7c-4e77-92c5-8a1025881c75" />
 
 
