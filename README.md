@@ -114,4 +114,7 @@ To set up the DHCP scope, go to 'Tools', then click 'DHCP', right click the 'IPv
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_19_01" src="https://github.com/user-attachments/assets/32e72920-5781-4895-b7b4-2c49e41557b4" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_21_04" src="https://github.com/user-attachments/assets/864b13aa-a6d9-42cb-a9e2-383f7aa9d6d6" />
 
-After inputing the IP ranges, then hit 'Next', then add IP Address exclusions (which basically means forbidden IP Addresses), then set the Lease Duration (means how long the client computer can have an IP Adrress before it needs to be refreshed), but i didn't set both, since this is just a lab, so I hit 'Next' on both
+After inputing the IP ranges, then hit 'Next', then add IP Address exclusions (which basically means forbidden IP Addresses), then set the Lease Duration (means how long the client computer can have an IP Adrress before it needs to be refreshed), but i didn't set both, since this is just a lab, so I hit 'Next' on both.
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_24_03" src="https://github.com/user-attachments/assets/115ce74f-1197-4d02-92fc-50a92a7fb558" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_25_11" src="https://github.com/user-attachments/assets/5901ca43-65c7-406b-84f5-d4fc9cfa6f24" />
+
