@@ -88,5 +88,4 @@ To use the new user account, I have to log out of the the domain controller, and
 
 Next, I have install and set up the RAS/NAT to allow the windows 10 client to be on the virtual private network and still be able to access internet through the Domain Controller (DC). To do this i will click on add roles and features on the Server Manager, hit 'Next', 'Next', I should be able to see the server, then click on 'Next' again and choose 'Remote Access' for the role, hit 'Next' again
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_19_45" src="https://github.com/user-attachments/assets/0b61e944-3c73-4dbc-8670-e981ade41976" />
-<img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_20_54" src="https://github.com/user-attachments/assets/27c1c46b-e861-436e-8e1c-7a18dbcc81fc" />
-
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_20_54" src="https://github.com/user-attachments/assets/7aa23016-f527-4abc-a0d9-430ba01cd856" />
