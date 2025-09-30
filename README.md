@@ -79,6 +79,6 @@ After inputing the new user informations, hit 'Next', then set a password for th
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_26_52" src="https://github.com/user-attachments/assets/f4585d6c-d7c4-4034-b4ff-9729a6e67b4d" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_11_50" src="https://github.com/user-attachments/assets/4295e034-559b-483e-956c-0c6f00e64b99" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_15_20" src="https://github.com/user-attachments/assets/16de664c-ce01-41de-bb83-707b9a6c4e27" />
-After creating the dedicated admin account, it still lacks administrative privileges. To do that I have to go active directory to elevate this new user to Administrator status
+After creating the dedicated admin account, it still lacks administrative privileges. I have to elevate this new user to Administrator status. To do that, I right clicked on the new user, go to 'Properties', then clicked on 'Member Of', then 'Add', then input 'domain admins' for the object name, then click on 'Check Names', then 'Okay' and 'Apply'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_13_59" src="https://github.com/user-attachments/assets/905ce222-bf6b-461d-a63a-5a9908cc26ae" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_14_38" src="https://github.com/user-attachments/assets/26904ee2-324b-4301-9c0b-26675ba4c6a6" />
