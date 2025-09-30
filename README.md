@@ -69,3 +69,6 @@ After Active Directory Domain Services installation, I have to set up the Post-D
 
 After the server is being promoted to the domain, it enforced a restart, after the restart, you will notice the domain has been successfully created as Ridwan has been added to the admin account, as it now display RIDWAN\Administrator.
 <img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_14_17" src="https://github.com/user-attachments/assets/bf9326ff-d0c8-46ed-b580-4cbf12e918dd" />
+
+Now instead of using the built admin account, I created a dedicated admin account, by clicking on start, the clicked on Active Directory Users and Computers.
+<img width="1152" height="864" alt="VirtualBox_DC_26_09_2025_21_20_54" src="https://github.com/user-attachments/assets/3c9429fa-37e2-4e80-a3f0-19cae010f812" />
