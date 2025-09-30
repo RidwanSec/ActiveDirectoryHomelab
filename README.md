@@ -110,6 +110,8 @@ Now, let's configure the DHCP and establish a scope. DHCP's primary function is 
 
 To illustrate, consider a scenario like a library offering Wi-Fi access. If patrons typically spend around 2 hours inside, it wouldn't be practical to lease an IP address for 8 days. This would tie up the IP address unnecessarily. In such a case, it's advisable to set the lease duration to under 4 hours and allocate a broader range. However, for a virtual environment like ours, where usage is temporary, the lease duration isn't crucial
 
-To set up the DHCP scope, go to 'Tools', then click 'DHCP', right click the 'IPv4', click 'New Scope', hit 'Next', give it a name, its ideal to  name it after the IP range, so I named is '172.16.0.100-200', then hit 'Next', then enter the ranges,
+To set up the DHCP scope, go to 'Tools', then click 'DHCP', right click the 'IPv4', click 'New Scope', hit 'Next', give it a name, its ideal to  name it after the IP range, so I named is '172.16.0.100-200', then hit 'Next', then enter the IP Address ranges.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_19_01" src="https://github.com/user-attachments/assets/32e72920-5781-4895-b7b4-2c49e41557b4" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_21_04" src="https://github.com/user-attachments/assets/864b13aa-a6d9-42cb-a9e2-383f7aa9d6d6" />
+
+After inputing the IP ranges, then hit 'Next', then add IP Address exclusions (which basically means forbidden IP Addresses), then set the Lease Duration (means how long the client computer can have an IP Adrress before it needs to be refreshed), but i didn't set both, since this is just a lab, so I hit 'Next' on both
