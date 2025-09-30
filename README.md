@@ -61,6 +61,8 @@ After configuring the network adapters, I move on to renaming the PC from its cu
 
 After the restart, I then proceed to intalling the active directory domain services (AD DS), to create the domain
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_56_07" src="https://github.com/user-attachments/assets/147409ca-4f93-486a-8ec3-2d82bc6ed200" />
+<img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_21_03_06" src="https://github.com/user-attachments/assets/aae7a0a0-c33f-4a4a-ac66-88496449ea4d" />
+
 
 
 
