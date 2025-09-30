@@ -94,7 +94,7 @@ Next, I have install and set up the RAS/NAT to allow the windows 10 client to be
 
 
 
-After Roles has been intalled successfully, now, I have to configure the Routing and Remote Access functionality by going to 'Tools', then 'Routing and Remote Access', right click on Domain Controller (DC), then click on 'Configure and Enable Routing and Remote Access', then 'Next', then choose 'Network address translation (NAT), then click on 'Next'
+After Roles has been intalled successfully, now, I have to configure the Routing and Remote Access functionality by going to 'Tools', then 'Routing and Remote Access', right click on Domain Controller (DC), then click on 'Configure and Enable Routing and Remote Access', then 'Next', then choose 'Network address translation (NAT)', then click on 'Next'
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_34_33" src="https://github.com/user-attachments/assets/133e44b8-bb09-4f4c-b573-e010f8aeb835" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_36_45" src="https://github.com/user-attachments/assets/8c5e8a50-4efd-45bf-bead-15e6ed2dc3af" />
 
