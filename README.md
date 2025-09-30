@@ -90,5 +90,7 @@ Next, I have install and set up the RAS/NAT to allow the windows 10 client to be
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_19_45" src="https://github.com/user-attachments/assets/0b61e944-3c73-4dbc-8670-e981ade41976" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_20_54" src="https://github.com/user-attachments/assets/7aa23016-f527-4abc-a0d9-430ba01cd856" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_24_17" src="https://github.com/user-attachments/assets/499b6511-ec6b-4b6b-8167-5e6461fb82e8" />
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_25_14" src="https://github.com/user-attachments/assets/3beafed1-860f-4c59-85de-4571216d3ea9" />
+
 
 After Roles has been intalled successfully, now, I have to configure the Routing and Remote Access functionality by going to tools
