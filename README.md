@@ -96,5 +96,12 @@ Next, I have install and set up the RAS/NAT to allow the windows 10 client to be
 
 After Roles has been intalled successfully, now, I have to configure the Routing and Remote Access functionality by going to 'Tools', then 'Routing and Remote Access', right click on Domain Controller (DC), then click on 'Configure and Enable Routing and Remote Access', then 'Next', then choose 'Network address translation (NAT)', then click on 'Next'
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_34_33" src="https://github.com/user-attachments/assets/133e44b8-bb09-4f4c-b573-e010f8aeb835" />
+
+Then under 'Use this public interface to connect to the internet:', choose the internet for the  Network interface, the 'Next', then hit 'Finish'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_36_45" src="https://github.com/user-attachments/assets/8c5e8a50-4efd-45bf-bead-15e6ed2dc3af" />
+
+Now, I set up the DHCP server, to allow Windows 10 Client to get an IP address that will let it get on the internet and browse the internet, while on the private internal network. 
+To set up the DHCP, I will go back to Domain Controller, click on 'Add Roles and Features Wizard', hit 'Next', confirm the server name, hit 'Next' again, then select 'DHCP Server', and 'Add Features', then, 'Next', 'Next', and click 'Install'.
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_00_47_59" src="https://github.com/user-attachments/assets/5afc7124-4d99-4900-bc48-3eaf554453c2" />
+
 
