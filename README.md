@@ -139,4 +139,5 @@ Then I proceeded to rename the client computer from default name to 'CLIENT1', a
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_41_17" src="https://github.com/user-attachments/assets/81b69aff-d717-4403-87ff-72be8a2e01ae" />
 Then for security reasons, It's going to ask for domain admin account with permission to join the domain, so I input the domain admin account that I created earlier.
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_42_57" src="https://github.com/user-attachments/assets/2ea1dbda-2a9f-44f2-b382-a47b77142362" />
+<img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_43_58" src="https://github.com/user-attachments/assets/df6167c6-9129-4966-80d5-35766091fe3b" />
 
