@@ -123,4 +123,5 @@ Then I added The domain controller IP Address, which is the IP Address I want th
 If the right domain controller IP is added, the domain name and DNS Server should pop-up automatically, which is 'ridwan.com', hit 'Next', then choose 'Yes, I want to activate the scope now', then 'Next' and 'Finish'.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_28_22" src="https://github.com/user-attachments/assets/098f5f16-890d-4e2e-9764-94a99b19ef73" />
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_29_17" src="https://github.com/user-attachments/assets/6084b652-ea54-44ed-be0e-1604f51e2e17" />
-
+Now, we can see that the scope is added.
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_32_31" src="https://github.com/user-attachments/assets/ff7a6d4a-07a3-468e-9b48-10cfa1b716a6" />
