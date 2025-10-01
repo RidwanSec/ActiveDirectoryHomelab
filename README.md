@@ -47,11 +47,11 @@ Practical skills applicable to system administration, and cybersecurity roles.
 Lab Walk-Through
 
 To accomodate my Domain Controller (DC) on the Virtual Machine, Two network adapters are required. Firstly, a NAT adapter utilizing my home router's IP address to facilitate external connectivity , and secondly, an Internal Network Adapter (VMnet0) to  enable communication with other Virtual Machines. Diplayed in the image below.
-<img width="600" height="500" alt="Screenshot 2025-09-29 at 2 59 57 AM" src="https://github.com/user-attachments/assets/23c4eeb8-591b-441e-be96-fdb3b486e3fb" />
+<img width="1024" height="600" alt="Screenshot 2025-09-29 at 2 59 57 AM" src="https://github.com/user-attachments/assets/23c4eeb8-591b-441e-be96-fdb3b486e3fb" />
 <img width="600" height="500" alt="Screenshot 2025-09-29 at 3 00 33 AM" src="https://github.com/user-attachments/assets/db93849a-7ff1-4635-9f6d-2cc05f1e69f9" />
 
 After installing Windows Server 2019 ISO on the Virtual Machine, I did network configuration by renaming the network adapters (External and Internal), that way I can differentiate NAT adapter utilizing my home router's IP address, which is the external network adapter from the internal one which is the Virtual Machine network.
-<img width="600" height="5000" alt="VirtualBox_DC_26_09_2025_20_48_56" src="https://github.com/user-attachments/assets/f09a9f0d-dd9a-4e54-bcd7-37deb9824111" />
+<img width="1024" height="600" alt="VirtualBox_DC_26_09_2025_20_48_56" src="https://github.com/user-attachments/assets/f09a9f0d-dd9a-4e54-bcd7-37deb9824111" />
 
 Next, I configured the Internal network Adapter, by assigning the IP address in the first image (172.16.0.1). I left the default gateway blank since the Domain Controller serves as the gateway. For DNS server configuration, I allocated the IP address in the first image, anticipating Active directory installation, which automatically installs DNS.
 <img width="1280" height="720" alt="VirtualBox_DC_26_09_2025_20_49_59" src="https://github.com/user-attachments/assets/3b4cbb8a-6180-4d84-8848-411593e9729b" />
