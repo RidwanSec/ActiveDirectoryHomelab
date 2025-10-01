@@ -133,8 +133,5 @@ After, I went to Active Directory to  refresh to make sure the Users folder is a
 <img width="1152" height="720" alt="VirtualBox_DC_27_09_2025_02_25_50" src="https://github.com/user-attachments/assets/19a3ed43-0914-4d9a-8a6a-8454206d6268" />
 The next step is to establish a new Virtual Machine, which will function as a user within the domain. I designate this machine with the name "CLIENT1."
 After setting up the client computer, I had to make sure the internet is working
-
-<img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_37_20" src="https://github.com/user-attachments/assets/b745d7aa-78ba-4f8d-9174-9ca440918ab8" />
-
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_24_09" src="https://github.com/user-attachments/assets/53c9524a-2bf0-4ec1-a77f-7c0144a25867" />
-
+<img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_37_20" src="https://github.com/user-attachments/assets/b745d7aa-78ba-4f8d-9174-9ca440918ab8" />
