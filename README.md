@@ -125,3 +125,6 @@ If the right domain controller IP is added, the domain name and DNS Server shoul
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_29_17" src="https://github.com/user-attachments/assets/6084b652-ea54-44ed-be0e-1604f51e2e17" />
 Now, we can see that the scope is added.
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_32_31" src="https://github.com/user-attachments/assets/ff7a6d4a-07a3-468e-9b48-10cfa1b716a6" />
+
+With Active Directory and my Domain Controller properly configured, I utilize a PowerShell script to generate more than 1000 user accounts. 
+<img width="1152" height="720" alt="VirtualBox_DC_27_09_2025_02_15_40" src="https://github.com/user-attachments/assets/1638e21a-b2b6-4ad3-91a8-6d67f49b2249" />
