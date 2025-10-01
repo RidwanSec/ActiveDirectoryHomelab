@@ -139,5 +139,8 @@ Then I proceeded to rename the client computer from default name to 'CLIENT1', a
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_41_17" src="https://github.com/user-attachments/assets/81b69aff-d717-4403-87ff-72be8a2e01ae" />
 Then for security reasons, It's going to ask for domain admin account with permission to join the domain, so I input the domain admin account that I created earlier.
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_42_57" src="https://github.com/user-attachments/assets/2ea1dbda-2a9f-44f2-b382-a47b77142362" />
+The client computer has successfully become a member of the domain.
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_43_58" src="https://github.com/user-attachments/assets/df6167c6-9129-4966-80d5-35766091fe3b" />
+Returning to my server VM, I review the DHCP to assess the number of leased addresses. As highlighted in red, it's evident that my CLIENT1 Virtual Machine has been assigned an address. In a real corporate setting, this folder would likely contain hundreds, if not thousands, of leased addresses, depending on the lease duration. Of course, the number varies depending on the specific environment; in this instance, I've set the lease duration to 8 days.
+<img width="1024" height="600" alt="VirtualBox_DC_27_09_2025_03_50_38" src="https://github.com/user-attachments/assets/25416fb5-5f6c-483a-8311-0f658b1f1e0a" />
 
