@@ -135,3 +135,8 @@ The next step is to establish a new Virtual Machine, which will function as a us
 After setting up the client computer, I had to make sure the internet is working
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_24_09" src="https://github.com/user-attachments/assets/53c9524a-2bf0-4ec1-a77f-7c0144a25867" />
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_37_20" src="https://github.com/user-attachments/assets/b745d7aa-78ba-4f8d-9174-9ca440918ab8" />
+Then I proceeded to rename the client computer from default name to 'CLIENT1'
+<img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_41_17" src="https://github.com/user-attachments/assets/81b69aff-d717-4403-87ff-72be8a2e01ae" />
+Then for security reasons, It's going to ask for domain admin account with permission to change the computer name, so I input the domain admin account that I created earlier.
+<img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_42_57" src="https://github.com/user-attachments/assets/2ea1dbda-2a9f-44f2-b382-a47b77142362" />
+
