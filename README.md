@@ -142,5 +142,7 @@ Then for security reasons, It's going to ask for domain admin account with permi
 The client computer has successfully become a member of the domain.
 <img width="1024" height="768" alt="VirtualBox_CLIENT 1_27_09_2025_03_43_58" src="https://github.com/user-attachments/assets/df6167c6-9129-4966-80d5-35766091fe3b" />
 Returning to my server VM, I review the DHCP to assess the number of leased addresses. As highlighted in red, it's evident that my CLIENT1 Virtual Machine has been assigned an address. In a real corporate setting, this folder would likely contain hundreds, if not thousands, of leased addresses, depending on the lease duration. Of course, the number varies depending on the specific environment; in this instance, I've set the lease duration to 8 days.
+<img width="1024" height="600" alt="VirtualBox_DC_27_09_2025_03_48_25" src="https://github.com/user-attachments/assets/fdacbaa7-b399-44b6-8a78-58365fa80190" />
+
 <img width="1024" height="600" alt="VirtualBox_DC_27_09_2025_03_50_38" src="https://github.com/user-attachments/assets/25416fb5-5f6c-483a-8311-0f658b1f1e0a" />
 
