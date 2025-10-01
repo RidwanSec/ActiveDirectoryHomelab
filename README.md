@@ -118,5 +118,7 @@ After inputing the IP ranges, then hit 'Next', then add IP Address exclusions (w
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_24_03" src="https://github.com/user-attachments/assets/115ce74f-1197-4d02-92fc-50a92a7fb558" />
 Then I choose Yes to configure DHCP options for the scope, to tell the client computer which server to use for DNS and which one to use for Gateway, for them to be able to get on the internet
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_25_11" src="https://github.com/user-attachments/assets/5901ca43-65c7-406b-84f5-d4fc9cfa6f24" />
-Then I added an IP Address for the router used by clients
+Then I added an IP Address for the router used by clients. 
 <img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_27_16" src="https://github.com/user-attachments/assets/b6ba204b-9ba9-4df9-829a-ccb49888b63b" />
+Next, I added what I want to use for the Domain Name and DNS  Server, and I used the Domain Controller for it, which is 'ridwan.com'
+<img width="1024" height="750" alt="VirtualBox_DC_27_09_2025_01_28_22" src="https://github.com/user-attachments/assets/098f5f16-890d-4e2e-9764-94a99b19ef73" />
