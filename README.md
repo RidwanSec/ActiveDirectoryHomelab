@@ -129,3 +129,5 @@ Now, we can see that the scope is added.
 With Active Directory and my Domain Controller properly configured, I utilize a PowerShell script to generate more than 1000 user accounts. 
 <img width="1152" height="720" alt="VirtualBox_DC_27_09_2025_02_15_40" src="https://github.com/user-attachments/assets/1638e21a-b2b6-4ad3-91a8-6d67f49b2249" />
 <img width="1152" height="720" alt="VirtualBox_DC_27_09_2025_02_21_26" src="https://github.com/user-attachments/assets/d5cb7be0-6804-4b89-9cbd-a8d801800f28" />
+After, I went to Active Directory to  refresh to make sure the Users folder is added to active directory after running the Powershell script
+<img width="1152" height="720" alt="VirtualBox_DC_27_09_2025_02_25_50" src="https://github.com/user-attachments/assets/19a3ed43-0914-4d9a-8a6a-8454206d6268" />
